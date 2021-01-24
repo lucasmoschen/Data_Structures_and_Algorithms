@@ -42,7 +42,7 @@ proved the correctness of the algorithm bubblesort and study the growth of
 functions. 
 
 <center>
-<img src="images/bubblesort.png" width="700" height="500"> 
+<img src="images/bubblesort.png" width="700" height="300"> 
 </center>
 
 <p>
@@ -53,5 +53,5 @@ functions.
 algorithm analysis of Quicksort and Sorting in Place in Linear Time!
 
 <center>
-<img src="images/red-black-tree.svg" width="500" height="500"> 
+<img src="images/red-black-tree.svg" width="500" height="300"> 
 </center>
